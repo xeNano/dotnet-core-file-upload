@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StartProject",
+    "\\StartProject\\UploadFilesServer",
+    "\\StartProject\\UploadFilesServer\\UploadFilesServer"
+  ],
+  "SelectedNode": "\\StartProject\\UploadFilesServer\\UploadFilesServer\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
