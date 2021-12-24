@@ -3,8 +3,9 @@
     "",
     "\\StartProject",
     "\\StartProject\\UploadFilesServer",
-    "\\StartProject\\UploadFilesServer\\UploadFilesServer"
+    "\\StartProject\\UploadFilesServer\\UploadFilesServer",
+    "\\StartProject\\UploadFilesServer\\UploadFilesServer\\Models"
   ],
-  "SelectedNode": "\\StartProject\\UploadFilesServer\\UploadFilesServer\\appsettings.json",
+  "SelectedNode": "\\StartProject\\UploadFilesServer\\UploadFilesServer\\Models\\User.cs",
   "PreviewInSolutionExplorer": false
 }
